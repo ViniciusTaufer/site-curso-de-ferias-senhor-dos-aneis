@@ -1,0 +1,32 @@
+#titulo_principal {
+
+    background-color: goldenrod;
+    color: white;
+
+
+}
+
+.titulo_secundario {
+    background-color: green;
+    color: white
+
+
+}
+
+body {
+     background-color: black; 
+     color: Rgb(255,255,255);
+     font-family: "Roboto", sans-serif;
+     font-size: 16px;
+
+
+}
+
+#layout { 
+        display: flex;
+
+
+
+}
+
+
